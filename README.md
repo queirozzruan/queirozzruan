@@ -19,7 +19,7 @@
       <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Fascinado pelo desenvolvimento Front-End/Mobile, atualmente estudando a fundo o React Native.
+Fascinado pelo desenvolvimento Mobile/Full-Stack, atualmente estudando a fundo o React Native.
 
 ## Contato:
 

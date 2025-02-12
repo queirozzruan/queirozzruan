@@ -1,5 +1,9 @@
 ## Oi! Me chamo Ruan Queiroz! 👋
 
+Desenvolvedor de software com foco em Mobile, atuando também como Full-Stack.
+
+Disciplina vence o talento!
+
 ### Minhas Redes:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-queiroz-77990829b/)
@@ -7,7 +11,7 @@
 
 ![Ruan GitHub stats](https://github-readme-stats.vercel.app/api?username=queirozzruan&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queirozzruan&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queirozzruan&hide_progress=true&theme=dark)
 
 ## Tecnologias que utilizo:
 <div style="display> inline_block"><br/>
@@ -18,8 +22,6 @@
      <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
-
-Fascinado pelo desenvolvimento Mobile/Full-Stack, atualmente estudando a fundo o React Native.
 
 ## Contato:
 

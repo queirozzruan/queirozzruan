@@ -20,7 +20,8 @@ Shell: /usr/bin/zsh
 ```
 
 ```sh
-Currently working with
+$ cat work.txt
+currently working with
 
 - JavaScript & TypeScript       - Firebase
 - React & React Native          - Node.js

@@ -1,3 +1,5 @@
+![cover](https://media.licdn.com/dms/image/v2/D4E16AQEYtV6dW1RwaQ/profile-displaybackgroundimage-shrink_350_1400/B4EZuPY7VGIwAg-/0/1767637235928?e=1769040000&v=beta&t=Y_srGY6FrMUGj8DhpxBO5IYOeahn-UeiGLsXv9Ew_HE)
+
 ```sh
 $ cat note.txt
 Hi, I’m Ruan Queiroz!

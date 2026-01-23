@@ -1,4 +1,4 @@
-![cover](https://media.licdn.com/dms/image/v2/D4E16AQEVQExaZ06d0w/profile-displaybackgroundimage-shrink_350_1400/B4EZuUPqkfIQAY-/0/1767718693896?e=1769040000&v=beta&t=UPx6pH0cPnFSB8foeBjgN9EqpO7yHxAHLzR3tg8Vb1k)
+![cover](https://media.licdn.com/dms/image/v2/D4E16AQEVQExaZ06d0w/profile-displaybackgroundimage-shrink_350_1400/B4EZuUPqkfIQAY-/0/1767718693896?e=1770854400&v=beta&t=LqLthdEbcpNncxWeyJa2743GROAf4mY5xY0GkHWRdYQ)
 
 ```sh
 $ cat note.txt

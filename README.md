@@ -2,7 +2,6 @@
 
 ```sh
 $ cat note.txt
-Hi, I’m Ruan Queiroz!
 
 I’m part of that special crew: devs who lift
 Mobile and fullstack developer by day — gym rat by night.

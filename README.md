@@ -1,4 +1,4 @@
-![cover](https://imgur.com/a/4JfdVSR)
+![cover]([https://imgur.com/a/4JfdVSR](https://i.imgur.com/u3yDL5h.png))
 
 ```sh
 $ cat note.txt
